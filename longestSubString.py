@@ -1,7 +1,4 @@
-from operator import index, truediv
 import time
-from tkinter import Y
-from tkinter.tix import Tree
 from collections import defaultdict
 
 def checkDup(string):

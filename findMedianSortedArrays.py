@@ -1,7 +1,4 @@
 
-
-from cgitb import reset
-from unittest import result
 import time
 
 def findMedianSortedArrays(nums1, nums2) -> float:
